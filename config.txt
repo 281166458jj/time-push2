@@ -1,0 +1,47 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx329f194d071d372a",
+# 公众号appSecret
+"app_secret": "d22d6bcb14f892fc5878911ee9d2a58e",
+# 模板消息id
+"template_id": "8bYYiekTC-lBMeNksnzvRXEBpKC4Ej5BIuBO1SX81s4",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oXuhc5ofF3oJJfv8LfvCLqgi9dmk","oXuhc5v68_7WUWX9J0L-xN3yBNRU"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "5b66ba555d6247b1bf3697b7b0a184be",
+"region": "泉州市",
+# 生日1
+"birthday1": {"name": "麦崽", "birthday": "1990-05-20"},
+# 生日2
+"birthday2": {"name": "娜崽", "birthday": "1996-11-16"},
+# 纪念日1，会计算累计时间，格式"YYYY-MM-DD"
+"commemoration_day1": "2021-05-25",
+# 纪念日2，同上
+# 金句中文，留空默认显示金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": "",
+# 字体颜色:使用RGB颜色(如#000000黑色)，留空颜色默认随机
+"color_date":                     "",          # 日期字体颜色
+"color_region":                   "",          # 地区字体颜色
+"color_weather":                  "",          # 天气字体颜色
+"color_temp":                     "",          # 当前温度字体颜色
+"color_wind":                     "",          # 当前风向字体颜色
+"color_note_en":                  "",          # 金句英文字体颜色
+"color_note_zh":                  "",          # 金句中文字体颜色
+"color_max_temp":                 "",          # 最高温度字体颜色
+"color_min_temp":                 "",          # 最低温度字体颜色
+"color_sunrise":                  "",          # 日出字体颜色
+"color_sunset":                   "",          # 日落字体颜色
+"color_category":                 "",          # 空气质量字体颜色
+"color_pm2p5":                    "",          # pm2.5字体颜色
+"color_proposal":                 "",          # 今日建议字体颜色
+"color_chp":                      "",          # 彩虹屁字体颜色
+"color_birthday1":                "",          # 生日1字体颜色
+"color_birthday2":                "",          # 生日2字体颜色
+"color_commemoration_day1":       "",          # 纪念日1字体颜色
+"color_commemoration_day2":       "",          # 纪念日2字体颜色
+}
